@@ -8,8 +8,9 @@ https://www.kaggle.com/datasets/veermaruthesh007/medical-report
 
 Medical-Reports
   
-*Xrays*
-*reports*
+_Xrays_
+
+_reports_
 
 
 
