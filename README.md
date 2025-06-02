@@ -21,10 +21,10 @@ Total Image: 7471
 
 Sources
 
-1.	MangoSteen0903/Youtube-Trend-Analysis-Project
-2.	SkGouseMastanVali/Fake_News_Detection_Using_Deep_Learning
-3.	AndroGari/Financial-Sentiment-Analysis
-4.	Mohamed-Salami/Sound-Recognition-Project
+1.	https://github.com/milkymilky0116/Youtube-Trend-Analysis-Project
+2.	https://github.com/SkGouseMastanVali/Fake_News_Detection_Using_Deep_Learning
+3.	https://github.com/AndroGari/Financial-Sentiment-Analysis
+4.	https://github.com/Mohamed-Salami/Sound-Recognition-Project
 5.	Haibhailie/SentimentAnalysisEmonet
 6.	pmanjunath29/Natural_Language_Processing
 7.	Abhiram1999/MEng-Final-Year-Project
