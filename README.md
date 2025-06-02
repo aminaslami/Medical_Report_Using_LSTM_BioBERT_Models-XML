@@ -6,6 +6,10 @@
 
 https://www.kaggle.com/datasets/veermaruthesh007/medical-report
 
+### Project Source
+
+https://www.kaggle.com/code/kooraabhinav/sentiment-analysis-using-lstm-and-gru
+
 Medical-Reports
   
 _Xrays_
