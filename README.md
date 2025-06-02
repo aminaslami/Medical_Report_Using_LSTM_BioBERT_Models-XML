@@ -57,7 +57,12 @@ https://github.com/AndreasNilssonNstart/Behavior_Scorecard-DATA-223
 
 https://github.com/AndroGari/Financial-Sentiment-Analysis
 
-www.github.com
+https://github.com
+
+https://gemini.google.com/app
+
+https://chat.deepseek.com/
+
 
 1.	https://github.com/milkymilky0116/Youtube-Trend-Analysis-Project
 2.	https://github.com/SkGouseMastanVali/Fake_News_Detection_Using_Deep_Learning
