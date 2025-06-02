@@ -12,7 +12,12 @@ RNDr. Petr Kubera, Ph.D.
 - E-mail: 		petr.kubera@ujep.cz
 
 
-
+The Model Run:		
+- T4 GPU (Google Colab)
+Dataset Size:
+- Version1  (1.39 GB)
+Run Notebook: 		
+- Google Colab
 
 ### Datasets
 
