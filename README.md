@@ -54,3 +54,9 @@ https://github.com/AndroGari/Financial-Sentiment-Analysis
 25.	https://github.com/kareemgamalmahmoud/NUAIH_Hadeth_Comptetion_1
 26.	https://github.com/SaifKhalid122/ML
 27.	https://github.com/hugo-mi/Sentiment_Analysis_Financial_Tweets
+28.	https://forums.fast.ai/t/error-while-using-tabular-in-v2/64189
+29.	https://github.com/pytorch/pytorch/blob/main/torch/csrc/utils/tensor_numpy.cpp
+30.	https://github.com/rsgoss/NLP_finalproj
+31.	https://wandb.ai/carlolepelaars/finbert-stocknewsapi-numerai-signals/reports/Getting-Started-with-Numerai-Signals-Sentiment-Analysis--Vmlldzo0OTg2MDU
+32.	https://stackoverflow.com/questions/68312423/how-is-get-predict-accuracy-score-in-bert-classification
+
