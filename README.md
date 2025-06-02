@@ -23,6 +23,8 @@ Sources
 
 https://www.askpython.com/python-modules/nltk-punkt#:~:text=NLTK%20PUNKT%20is%20an%20unsupervised,sentence%20boundaries%20without%20manual%20annotation.
 
+https://github.com/AndreasNilssonNstart/Behavior_Scorecard-DATA-223
+
 1.	https://github.com/milkymilky0116/Youtube-Trend-Analysis-Project
 2.	https://github.com/SkGouseMastanVali/Fake_News_Detection_Using_Deep_Learning
 3.	https://github.com/AndroGari/Financial-Sentiment-Analysis
