@@ -14,10 +14,17 @@ RNDr. Petr Kubera, Ph.D.
 
 The Model Run:		
 - T4 GPU (Google Colab)
+
 Dataset Size:
 - Version1  (1.39 GB)
+
 Run Notebook: 		
 - Google Colab
+
+Path in Colab:		
+- **_/content/drive/MyDrive/medical_reports_**
+- Please mount and connect to Drive
+
 
 ### Datasets
 
