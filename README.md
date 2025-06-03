@@ -2,28 +2,12 @@
 
 
 
-|          | RNDr. Jiří Škvára, Ph.D. |
-| -------------------------------- | ------------- |
-| - Office:  		6.03 (CPTO)        | 
-| - Telefon:  	+420 475 286 716   |
-| - E-mail: 		petr.kubera@ujep.cz  | Content Cell  |
-
-
-
 My Supervsiors
 ===================
 
 | RNDr. Petr Kubera, Ph.D.          | RNDr. Jiří Škvára, Ph.D.    | 
 | --------------------------------- | --------------------------- | 
 | Office:  		6.03 (CPTO)<br>Telefon:  	+420 475 286 716<br>E-mail: 		petr.kubera@ujep.cz | Office:  		6.04 (CPTO)<br>Telefon:  	+420 475 286 718<br>E-mail: 		Jiri.Skvara@ujep.cz | 
-
-
-
-
-:		
-
-- Telefon:  	+420 475 286 718
-- E-mail: 		Jiri.Skvara@ujep.cz			
 
 
 
