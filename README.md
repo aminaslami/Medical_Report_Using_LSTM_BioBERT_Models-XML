@@ -1,6 +1,6 @@
 # MedicalReport_LSTM_and_BioBERT_Models
 
-**Supervsiors**
+
 
 |          | RNDr. Jiří Škvára, Ph.D. |
 | -------------------------------- | ------------- |
@@ -10,7 +10,7 @@
 
 
 
-Multiline Text Table
+My Supervsiors
 ===================
 
 | RNDr. Petr Kubera, Ph.D.          | RNDr. Jiří Škvára, Ph.D.    | 
