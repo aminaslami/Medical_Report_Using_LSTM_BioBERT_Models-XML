@@ -41,9 +41,9 @@ _Xrays_
 _reports_
 
 
-Total Report: 3999
+Total Repor (Text -> Xml)t: 3999
 
-Total Image: 7471
+Total Image (Png -> Xrays): 7471
 
 Project Sources: 
 
