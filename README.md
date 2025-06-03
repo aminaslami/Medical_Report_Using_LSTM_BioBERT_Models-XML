@@ -1,15 +1,17 @@
 # MedicalReport_LSTM_and_BioBERT_Models
 
 
+RNDr. Petr Kubera, Ph.D.
+- Office:  		6.03 (CPTO)
+- Telefon:  	+420 475 286 716
+- E-mail: 		petr.kubera@ujep.cz
+
+
 Supervsiors:		RNDr. Jiří Škvára, Ph.D.
 - Office:  		6.04 (CPTO)
 - Telefon:  	+420 475 286 718
 - E-mail: 		Jiri.Skvara@ujep.cz			
 
-RNDr. Petr Kubera, Ph.D.
-- Office:  		6.03 (CPTO)
-- Telefon:  	+420 475 286 716
-- E-mail: 		petr.kubera@ujep.cz
 
 
 The Model Run:		
@@ -24,7 +26,6 @@ Run Notebook:
 Path in Colab:		
 - **_/content/drive/MyDrive/medical_reports_**
 - Please mount and connect to Drive
-
 
 
 
@@ -45,24 +46,11 @@ _reports_
 
 
 
-Total Report: 3999
+Total Report: 
 
 Total Image: 7471
 
-Sources
-
-https://www.askpython.com/python-modules/nltk-punkt#:~:text=NLTK%20PUNKT%20is%20an%20unsupervised,sentence%20boundaries%20without%20manual%20annotation.
-
-https://github.com/AndreasNilssonNstart/Behavior_Scorecard-DATA-223
-
-https://github.com/AndroGari/Financial-Sentiment-Analysis
-
-https://github.com
-
-https://gemini.google.com/app
-
-https://chat.deepseek.com/
-
+Project Sources: 
 
 1.	https://github.com/milkymilky0116/Youtube-Trend-Analysis-Project
 2.	https://github.com/SkGouseMastanVali/Fake_News_Detection_Using_Deep_Learning
@@ -96,4 +84,10 @@ https://chat.deepseek.com/
 30.	https://github.com/rsgoss/NLP_finalproj
 31.	https://wandb.ai/carlolepelaars/finbert-stocknewsapi-numerai-signals/reports/Getting-Started-with-Numerai-Signals-Sentiment-Analysis--Vmlldzo0OTg2MDU
 32.	https://stackoverflow.com/questions/68312423/how-is-get-predict-accuracy-score-in-bert-classification
+33.	https://chat.deepseek.com/
+34.	https://gemini.google.com/app
+35.	https://github.com
+36.	https://github.com/AndroGari/Financial-Sentiment-Analysis
+37.	https://www.askpython.com/python-modules/nltk-punkt#:~:text=NLTK%20PUNKT%20is%20an%20unsupervised,sentence%20boundaries%20without%20manual%20annotation.
+38.	https://github.com/AndreasNilssonNstart/Behavior_Scorecard-DATA-223
 
