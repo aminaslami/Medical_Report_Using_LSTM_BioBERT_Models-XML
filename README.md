@@ -33,9 +33,6 @@ Path in Colab:
 
 https://www.kaggle.com/datasets/veermaruthesh007/medical-report
 
-### Project Source
-
-https://www.kaggle.com/code/kooraabhinav/sentiment-analysis-using-lstm-and-gru
 
 Medical-Reports
   
@@ -44,9 +41,7 @@ _Xrays_
 _reports_
 
 
-
-
-Total Report: 
+Total Report: 3999
 
 Total Image: 7471
 
@@ -90,4 +85,5 @@ Project Sources:
 36.	https://github.com/AndroGari/Financial-Sentiment-Analysis
 37.	https://www.askpython.com/python-modules/nltk-punkt#:~:text=NLTK%20PUNKT%20is%20an%20unsupervised,sentence%20boundaries%20without%20manual%20annotation.
 38.	https://github.com/AndreasNilssonNstart/Behavior_Scorecard-DATA-223
+39.	https://www.kaggle.com/code/kooraabhinav/sentiment-analysis-using-lstm-and-gru
 
