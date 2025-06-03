@@ -2,7 +2,7 @@
 
 **Supervsiors**
 
-| RNDr. Petr Kubera, Ph.D.         | RNDr. Jiří Škvára, Ph.D. |
+|          | RNDr. Jiří Škvára, Ph.D. |
 | -------------------------------- | ------------- |
 | - Office:  		6.03 (CPTO)        | 
 | - Telefon:  	+420 475 286 716   |
@@ -13,11 +13,9 @@
 Multiline Text Table
 ===================
 
-| Column 1                          | Column 2                    | 
+| RNDr. Petr Kubera, Ph.D.          | RNDr. Jiří Škvára, Ph.D.    | 
 | --------------------------------- | --------------------------- | 
-| First line of text                | This is a single line of text 
-| Office:  		6.03 (CPTO)<br>Telefon:  	+420 475 286 716<br>E-mail: 		petr.kubera@ujep.cz | Office:  		6.04 (CPTO)<br>Telefon:  	+420 475 286 718<br>E-mail: 		Jiri.Skvara@ujep.cz | Just |
-| Multiline<br>Text<br>Here          | Another line of text        | 
+| Office:  		6.03 (CPTO)<br>Telefon:  	+420 475 286 716<br>E-mail: 		petr.kubera@ujep.cz | Office:  		6.04 (CPTO)<br>Telefon:  	+420 475 286 718<br>E-mail: 		Jiri.Skvara@ujep.cz | 
 
 
 
