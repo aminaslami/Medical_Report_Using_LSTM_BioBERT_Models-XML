@@ -1,14 +1,19 @@
 # MedicalReport_LSTM_and_BioBERT_Models
 
+**Supervsiors**
 
-RNDr. Petr Kubera, Ph.D.
-- Office:  		6.03 (CPTO)
-- Telefon:  	+420 475 286 716
-- E-mail: 		petr.kubera@ujep.cz
+| RNDr. Petr Kubera, Ph.D.         | RNDr. Jiří Škvára, Ph.D. |
+| -------------------------------- | ------------- |
+| - Office:  		6.03 (CPTO)        | - Office:  		6.04 (CPTO)
+| - Telefon:  	+420 475 286 716     |
+| - E-mail: 		petr.kubera@ujep.cz  | Content Cell  |
 
 
-Supervsiors:		RNDr. Jiří Škvára, Ph.D.
-- Office:  		6.04 (CPTO)
+
+
+
+:		
+
 - Telefon:  	+420 475 286 718
 - E-mail: 		Jiri.Skvara@ujep.cz			
 
