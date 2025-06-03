@@ -10,6 +10,7 @@ My Supervsiors
 | Office:  		6.03 (CPTO)<br>Telefon:  	+420 475 286 716<br>E-mail: 		petr.kubera@ujep.cz | Office:  		6.04 (CPTO)<br>Telefon:  	+420 475 286 718<br>E-mail: 		Jiri.Skvara@ujep.cz | 
 
 
+-----------------------------
 
 The Model Run:		
 - T4 GPU (Google Colab)
@@ -33,6 +34,8 @@ https://www.kaggle.com/datasets/veermaruthesh007/medical-report
 - Total Repor (Text -> Xml)t: 3999
 
 - Total Image (Png -> Xrays): 7471
+
+-----------------------------
 
 Project Sources: 
 
