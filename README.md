@@ -5,9 +5,19 @@
 | RNDr. Petr Kubera, Ph.D.         | RNDr. Jiří Škvára, Ph.D. |
 | -------------------------------- | ------------- |
 | - Office:  		6.03 (CPTO)        | - Office:  		6.04 (CPTO)
-| - Telefon:  	+420 475 286 716     |
+| - Telefon:  	+420 475 286 716   |
 | - E-mail: 		petr.kubera@ujep.cz  | Content Cell  |
 
+
+
+Multiline Text Table
+===================
+
+| Column 1                          | Column 2                    | Column 3                                  |
+| --------------------------------- | --------------------------- | ----------------------------------------- |
+| First line of text                | This is a single line of text | Line 1 of text<br>Line 2 of text<br>Line 3 of text<br>Line 4 of text |
+| Text in the first column<br>More text in the first column | First line of text<br>Second line of text | Just a single line                        |
+| Multiline<br>Text<br>Here          | Another line of text        | Line 1 of text<br>Line 2 of text<br>Line 3 of text |
 
 
 
