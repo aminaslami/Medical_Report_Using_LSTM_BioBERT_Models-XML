@@ -1,4 +1,4 @@
-# MedicalReport_LSTM_and_BioBERT_Models
+# Medical Report LSTM and BioBERT Models - The Text Data is From .XML Files
 
 
 
