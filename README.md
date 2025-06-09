@@ -31,9 +31,9 @@ Path in Colab:
 
 https://www.kaggle.com/datasets/veermaruthesh007/medical-report
 
-- Total Repor (Text -> Xml)t: 3999
+- Total Repor (TXT -> Xml): 3999
 
-- Total Image (Png -> Xrays): 7471
+- Total Image (PNG -> Xrays): 7471
 
 -----------------------------
 
